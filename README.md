@@ -1,7 +1,7 @@
 ## 概要
 
-https://www.youtube.com/watch?v=8b6iqmo_2Os
-こちらの動画を参考に掲示板 web アプリケーションを作成した
+- https://www.youtube.com/watch?v=8b6iqmo_2Os
+- こちらの動画を参考に掲示板 web アプリケーションを作成した
 
 ## 使用技術
 
