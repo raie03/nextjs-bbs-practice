@@ -18,3 +18,4 @@
 ## 動画との変更点
 
 - 動画で使用していた Next.js14 とは違って、Next.js15 では Route Handlers の params からパラメータを取得するには await を使う必要がある
+- https://nextjs.org/docs/messages/sync-dynamic-apis
